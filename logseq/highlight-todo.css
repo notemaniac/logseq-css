@@ -8,3 +8,7 @@
 span[data-ref="TODO"] div a {
   color: #EA5455;
 }
+
+span[data-ref="todo"] div a {
+  color: #EA5455;
+}
