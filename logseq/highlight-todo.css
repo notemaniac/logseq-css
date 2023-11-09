@@ -1,6 +1,10 @@
 /* Do:
  * @import url("https://cdn.jsdelivr.net/gh/somidad/logseq-css/logseq/highlight-todo.css");
  */
+
+/*
+ * Works on [[TODO]]
+ */
 span[data-ref="TODO"] div a {
   color: #EA5455;
 }
