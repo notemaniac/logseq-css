@@ -3,12 +3,12 @@
  */
 
 /*
- * Works on [[TODO]]
+ * Works on [[TODO]] and [[WAITING]]
  */
 span[data-ref="TODO"] div a {
   color: #EA5455;
 }
 
-span[data-ref="todo"] div a {
-  color: #EA5455;
+span[data-ref="WAITING"] div a {
+  color: #FFD460;
 }
