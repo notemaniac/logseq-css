@@ -2,6 +2,10 @@
  * @import url("https://cdn.jsdelivr.net/gh/somidad/logseq-css/logseq/highlight-todo.css");
  */
 
+/* Color palette used:
+ * https://colorhunt.co/palette/2d4059ea5455f07b3fffd460
+ */
+
 span[data-ref="TODO"] a {
   color: #EA5455;
 }
