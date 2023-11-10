@@ -2,13 +2,18 @@
  * @import url("https://cdn.jsdelivr.net/gh/somidad/logseq-css/logseq/highlight-todo.css");
  */
 
-/*
- * Works on [[TODO]] and [[WAITING]]
- */
-span[data-ref="TODO"] div a {
+span[data-ref="TODO"] a {
   color: #EA5455;
 }
 
-span[data-ref="WAITING"] div a {
+.block-marker.TODO {
+  color: #EA5455;
+}
+
+span[data-ref="WAITING"] a {
+  color: #FFD460;
+}
+
+.block-marker.WAITING {
   color: #FFD460;
 }
